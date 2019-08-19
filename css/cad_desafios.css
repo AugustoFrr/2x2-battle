@@ -1,0 +1,62 @@
+html{
+    height: 100%;
+}
+
+body{
+    margin: 2%;
+	background-color: #f5f5f5;
+}
+
+.cad-desafio{
+margin: 10px;
+}
+
+.cad-desafio label{
+    margin: 5px;
+    display: block;
+}
+
+.cad-desafio input,.cad-desafio textarea{
+    display: block;
+    margin: 5px 5px 10px 5px;
+    width: 100%;
+}
+
+.logo-lateral{
+    width: 80%;
+}
+
+.group-btn{
+    padding:15px;
+}
+
+.btn-navg{
+	color: white;
+	border-radius: 500px;
+	transition: background 0.4s, color 0.4s;
+    width: 20%;
+    border: none;
+    padding: 10px;
+	background: #f73348;
+}
+
+.btn-navg:hover{
+    background: #1fca04;
+}
+
+.btn-custom {
+
+    color: white;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    text-transform: uppercase;
+    transition: background 0.4s, color 0.4s;
+    padding: 10px 20px;
+    background: #f73348;
+}
+
+.btn-custom:hover {
+    background: #1fca04;
+    color: white;
+}

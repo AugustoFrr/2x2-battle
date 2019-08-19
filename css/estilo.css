@@ -1,0 +1,137 @@
+html, body, #main {
+
+	height: 100%;
+}
+
+body {
+
+	background-color: #f5f5f5;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h5{
+	margin: 0;
+	padding: 0;
+}
+
+h3{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+#divCrono {
+
+	bottom: 0;
+
+	width: 99%;
+
+	text-align: center;
+
+	font-size: 60px;
+
+	margin-top: 0px;
+
+	padding: 0px;
+
+}
+
+
+
+#game-bg {
+	background-image: url(../imagens/logo3.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.transparent-bg {
+	background: rgba(0,0,0,0.2); 
+	border-radius: 20px;
+	margin: 10px;
+	padding: 10px;
+}
+
+.quests-bg {
+	background: rgba(52, 58, 64); 
+	border-radius: 20px;
+	margin: 10px;
+	padding: 10px;
+	padding: 15px 0px 15px 0px;
+}
+
+
+
+.navbar-light .navbar-nav .nav-link {
+	color: #f73348;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #1fca04;
+}
+
+.navbar-light .navbar-toggler {
+	color: rgba(0,0,0,.5);
+	border: none;
+}
+
+.divisor {
+	width: 1px;
+	background: #f73348   ;
+	margin: 10px 0px;
+}
+
+.capa, .centralizar {
+	text-align: center;
+}
+
+.btn-custom {
+
+	color: white;
+	border-radius: 500px;
+	-webkit-border-radius: 500px;
+	-moz-border-radius: 500px;
+	text-transform: uppercase;
+	transition: background 0.4s, color 0.4s;
+	padding: 10px 20px;
+	background: #f73348;
+}
+
+.btn-custom:hover {
+	background: #1fca04;
+	color: white;
+}
+
+.user-img {
+	float: left;
+	width: 50%;
+}
+
+.questao {
+	width: 60%;
+	color: white;
+
+}
+
+.alternativa {
+	text-align: center;
+	line-height: 30px;
+	margin: 10px;
+	color: white;
+
+}
+
+.margin {
+	margin-bottom: 15px;
+}
+
+.containerQuestao {
+	border-radius: 20px;    
+	background: rgb(52, 58, 64);    
+	font-weight: bold;
+	color: white;
+	padding: 15px 0px 15px 0px;
+}
