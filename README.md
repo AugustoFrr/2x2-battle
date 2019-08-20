@@ -2,7 +2,9 @@
 
 Um jogo interativo para ser aplicado por um professor em salas de aula de qualquer nível de ensino, 
 auxiliando os alunos a fixar os conceitos dados com uma dinâmica rápida e competitiva.
-Clique aqui para jogar! (Em breve)
+
+
+**[Clique aqui para jogar! (Em breve)]()**
 
 O jogo consiste em uma batalha dois contra dois. Em um primeiro momento é necessário 
 o cadastro e login de todos os participantes, logo após é necessário que o administrador (professor) 
@@ -23,14 +25,14 @@ Senha de acesso ao Dashboard: “123”.
 Primeiramente rode os scripts dentro do diretório “banco”:
 
 ```
-host/battle/banco/CreateDatabase.php
-host/battle/banco/CreateTables.php
+battle/banco/CreateDatabase.php
+battle/banco/CreateTables.php
 ```
 
 Existe um script de preenchimento automático (aluno e perguntas) apenas para testes:
 
 
 ```
-host/battle/banco/Preencher.php
+battle/banco/Preencher.php
 ```
 
