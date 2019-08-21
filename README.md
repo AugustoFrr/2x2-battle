@@ -4,7 +4,7 @@ Um jogo interativo para ser aplicado por um professor em salas de aula de qualqu
 auxiliando os alunos a fixar os conceitos dados com uma dinâmica rápida e competitiva.
 
 
-**[Clique aqui para jogar! (Em breve)]()**
+**[Clique aqui para jogar!](http://www.augustofrr.ga/battle/)**
 
 O jogo consiste em uma batalha dois contra dois. Em um primeiro momento é necessário 
 o cadastro e login de todos os participantes, logo após é necessário que o administrador (professor) 
